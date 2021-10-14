@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @emmanuelleprn
+- 👋 Hi, I’m Emmanuelle
 - 👀 I’m interested in sports, gaming, lifestyle
-- 🌱 I’m currently learning communication & marketing 
-- 💞️ I’m looking to collaborate on projects at school and as a community manager for my best friend who is a Twitch gmaing streamer
-- 📫 How to reach me emmananuelle.peron26@gmail.com or @emmanuelleprn on socials 
+- 🌱 Always trying to be my better self !
+- 📚 I’m currently learning Communication & Marketing in France
+- 💞️ I am doing a lot of projects at school
+- 👾 My main project today: Community Manager of @Atanaze on Twitch --> Twitch Gaming Streamer
+- 📱 Contact me emmanuelle.peron26@gmail.com or @emmanuelleprn on socials 
 
 <!---
 emmanuelleprn/emmanuelleprn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
